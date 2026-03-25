@@ -115,6 +115,9 @@ flowchart LR
 ```
 
 ---
+## ⚙️ Workflow en Databricks
+
+![](https://github.com/miguelhg37/Proyecto-Final-Smart-Data/blob/main/Evidencias/Ejecucion%20Workflow%20ETL%20Medallion%20Job.png)
 
 ## 🧪 Reglas de calidad de datos
 
