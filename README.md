@@ -177,3 +177,13 @@ flowchart LR
 ## 💼 Valor del proyecto
 
 Pipeline productivo alineado a estándares modernos de ingeniería de datos.
+
+---
+
+## 👤 Autor
+
+Miguel Hernandez Guerrero 
+
+[GitHub](https://github.com/miguelhg37) [LinkedIn](https://www.linkedin.com/in/miguelhg1/)
+
+Data Engineering | Databricks | Microsof Azure | Lakehouse
