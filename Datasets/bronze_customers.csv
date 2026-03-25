@@ -1,0 +1,11 @@
+customer_id,first_name,last_name,email,city,country,signup_date,customer_segment,status
+1001,Miguel,Hernandez,miguel.hernandez@example.com,CDMX,Mexico,2024-01-10,Gold,active
+1002,Ana,Lopez,ana.lopez@example.com,Guadalajara,Mexico,2024-02-18,Silver,active
+1003,Carlos,Ramirez,carlos.ramirez@example.com,Monterrey,Mexico,2024-03-02,Bronze,inactive
+1004,Sofia,Martinez,sofia.martinez@example.com,Puebla,Mexico,2024-03-15,Gold,active
+1005,Jorge,Castillo,jorge.castillo@example.com,Merida,Mexico,2024-04-01,Silver,active
+1006,Fernanda,Ruiz,fernanda.ruiz@example.com,Queretaro,Mexico,2024-04-12,Gold,active
+1007,Luis,Torres,luis.torres@example.com,Tijuana,Mexico,2024-05-20,Bronze,inactive
+1008,Valeria,Mendoza,valeria.mendoza@example.com,Leon,Mexico,2024-06-08,Silver,active
+1009,Diego,Navarro,diego.navarro@example.com,Toluca,Mexico,2024-06-21,Gold,active
+1010,Paula,Vega,paula.vega@example.com,Cancun,Mexico,2024-07-03,Bronze,active
